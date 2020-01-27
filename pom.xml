@@ -49,12 +49,12 @@
 	<distributionManagement>
 		<snapshotRepository>
                        <id>snapshots</id>
-                        <url>http://18.216.213.5:8081/repository/test.snap/</url>
+                        <url>http://52.15.179.56:8081/repository/test-snap/</url>
                 </snapshotRepository>
 		
 	        <repository>
                         <id>releases</id>
-                        <url>http://18.216.213.5:8081/repository/test-release/</url>
+                        <url>http://52.15.179.56:8081/repository/test-release/</url>
                 </repository>
   	</distributionManagement>
 	<build>
